@@ -110,12 +110,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "LUCKY-XFORCE••<=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0ozTTlpbk5WVTJYTUpHdFl4ellIRzlRZGpIaXVsdk1OSzFVV3l5Q3JYOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY3RVVWpOOHVPaFBzcCtnM0RQVmdwNVVEeUxxeVN1emg5OU4wbTN3TkNBTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHT29OOG4zeHBCNjV0ZjFicGxhY2JScXVFaGYrS2lSU1dGbHpSeTZyeWtnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPY054VE9qaFF4SlhYMXdMdS9sQlFFbDJsVjRlcU9VUWt1dFVnSmVoWFhrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlOM1hlS3NOL2Z4MnZuWDFUODliazQ3bzRtYndXYndEb09tcStDWndwbVk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitUbjVNUEZsWkxrVEs2TFNzZ1V6R1Z5dFY5bWJkUzNCZVErVmFKM0l6aUk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0FyY2lkdkdkNnBiWHZMOUQyQjJ1YVJIb3FGaTc2ZjZGSzZtWHZCMXEwST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibDBXbkJnMTBGY24wTWVtOXBaM3FHbitTNVdJdTdsUjhRSFpjNzczOWsyZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlpVZnQ4d1o2ZW1GNmVkT2o2RFJjTTRLQzZORlFMSGY3aldSc1B3RXhiN1Q4WmpmZW0zZmhNSER3SytTcElXSE1mcEhONXdZdndjbGZnTWozSHQrampnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NjMsImFkdlNlY3JldEtleSI6ImVUUG1YZ0JPMkJQRVIrU1FIMVFweDhpbmlxblZjZnhzRGIwZ0dZMEMzQ289IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjQyMDU2NDAxNzEyQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkMzOEQ4MTM1MjU5RkExQUJBMzg2RTM4Mjk4NTc4QzVCIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTQ3MDAyODF9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI0MjA1NjQwMTcxMkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJBOUJDMDQ1NzE5MEM1M0E3MzRGRjY0Q0FDMUIwOEQ1QyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzU0NzAwMjg3fV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJFRDIyM1NCSyIsIm1lIjp7ImlkIjoiMjQyMDU2NDAxNzEyOjMwQHMud2hhdHNhcHAubmV0IiwibGlkIjoiMjA2ODQ2MTYxODQ2NDU1OjMwQGxpZCIsIm5hbWUiOiLwnZG58J2RvPCdka3wnZGo8J2Rs/CdkavwnZGw8J2RrCDwnZGy8J2RqPCdkoAifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01XT2dlMEJFTml6MnNRR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkJyYnRtQWxxYnBuQkJsWlFHY1lZMWx0cUhvSm1Ja2lOdTYySjA0RTVnQWc9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkR2aklUeExjd3cwOVMyelhQQW9XQjFMb0VpWjltUFp5QzdOekNDMTZBUjl2cUduaGFPeEVZLzkrWHAzMnlJQkFVbG41UEhQTzI3MGtOcVJjQVJ5ZUJ3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ6Uk5TQUpoZi8zd09hREN6bzlMTWRzVUZqOXF5WXhtQ3FaVjAyQVBxSERHSWgxekJZWlNuTmo5K2ExRFpLaE15UzVzSzdySmJXQ2tGTi93UW9zTUtnZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI0MjA1NjQwMTcxMjozMEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRYTI3WmdKYW02WndRWldVQm5HR05aYmFoNkNaaUpJamJ1dGlkT0JPWUFJIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQUlJRFE9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTQ3MDAyNjMsImxhc3RQcm9wSGFzaCI6IjJQMVloZiIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSnV2In0=",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "꧁𖤍࿐ ꧁༊꧂ 𒈒 𝗟𝗢𝗥𝗗 𒆜𝕽𝕰𝕬𝕻𝕰𝕽  𒆜 𝑫𝑬𝑽𝑰𝑳_ᴏꜰ_𝑯𝒆𝒍𝒍 𒆜 𝑴𝒂𝒓𝒏𝒆𝒙𝒖𝒔 𒈒 ꧁༊꧂",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
@@ -125,7 +125,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "242056401712",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -158,6 +158,7 @@
       "value": "no",
       "required": false
     }
+
     },
 
   "formation": {
